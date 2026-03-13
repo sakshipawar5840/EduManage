@@ -1,0 +1,5 @@
+{
+  "name": "EduManage",
+  "description": "A comprehensive Institute Management System for administrators, trainers, and students. Features attendance tracking, batch management, task assignment, and AI-powered performance insights.",
+  "requestFramePermissions": []
+}
