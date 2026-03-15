@@ -45,14 +45,40 @@ Run the project
 
 npm run dev
 
----
+--
+## 📸 Project Screenshots
+
+### Login Page
+<p align="center">
+<img src="IMAGE_LINK_LOGIN" width="850">
+</p>
+
+### Create Account
+<p align="center">
+<img src="IMAGE_LINK_SIGNUP" width="850">
+</p>
+
+### Admin Dashboard
+<p align="center">
+<img src="IMAGE_LINK_ADMIN" width="900">
+</p>
+
+### Student Dashboard
+<p align="center">
+<img src="IMAGE_LINK_STUDENT" width="900">
+</p>
+
+### Trainer Dashboard
+<p align="center">
+<img src="IMAGE_LINK_TRAINER" width="900">
+</p>
 
 
 ## 🔑 Demo Admin Login
 
 Use the following credentials to access the Admin Dashboard.
 
-Email: abc123@edumanage.com  
+Email: abc123@gmail.com  
 Password: abc123
 
 
