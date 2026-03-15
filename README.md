@@ -46,33 +46,6 @@ Run the project
 npm run dev
 
 --
-## 📸 Project Screenshots
-
-### Login Page
-<p align="center">
-<img src="Screenshot 2026-03-13 235046.png" width="850">
-</p>
-
-### Create Account
-<p align="center">
-<img src="Screenshot 2026-03-13 235104.png" width="850">
-</p>
-
-### Admin Dashboard
-<p align="center">
-<img src="Screenshot 2026-03-13 235128.png" width="900">
-</p>
-
-### Student Dashboard
-<p align="center">
-<img src="Screenshot 2026-03-13 235148.png" width="900">
-</p>
-
-### Trainer Dashboard
-<p align="center">
-<img src="Screenshot 2026-03-13 235219.png" width="900">
-</p>
-
 
 ## 🔑 Demo Admin Login
 
