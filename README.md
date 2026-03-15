@@ -50,27 +50,27 @@ npm run dev
 
 ### Login Page
 <p align="center">
-<img src="IMAGE_LINK_LOGIN" width="850">
+<img src="Screenshot 2026-03-13 235046.png" width="850">
 </p>
 
 ### Create Account
 <p align="center">
-<img src="IMAGE_LINK_SIGNUP" width="850">
+<img src="Screenshot 2026-03-13 235104.png" width="850">
 </p>
 
 ### Admin Dashboard
 <p align="center">
-<img src="IMAGE_LINK_ADMIN" width="900">
+<img src="Screenshot 2026-03-13 235128.png" width="900">
 </p>
 
 ### Student Dashboard
 <p align="center">
-<img src="IMAGE_LINK_STUDENT" width="900">
+<img src="Screenshot 2026-03-13 235148.png" width="900">
 </p>
 
 ### Trainer Dashboard
 <p align="center">
-<img src="IMAGE_LINK_TRAINER" width="900">
+<img src="Screenshot 2026-03-13 235219.png" width="900">
 </p>
 
 
