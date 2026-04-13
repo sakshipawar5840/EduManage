@@ -74,3 +74,7 @@ assets
 
 Sakshi Pawar  
 GitHub: https://github.com/sakshipawar5840
+
+
+## 🌟 Live Demo
+https://edu-manager-site.netlify.app/
