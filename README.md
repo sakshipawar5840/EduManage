@@ -77,4 +77,4 @@ GitHub: https://github.com/sakshipawar5840
 
 
 ## 🌟 Live Demo
-https://edu-manager-site.netlify.app/
+https://animated-peony-92efa0.netlify.app/
